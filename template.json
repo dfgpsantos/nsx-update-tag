@@ -1,0 +1,6 @@
+    "external_id": "trocar",
+    "tags": [
+        {"scope": "teste123", "tag": "app"},
+        {"scope": "teste456", "tag": "web"}
+    ]
+,
